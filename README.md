@@ -1,2 +1,0 @@
-# mockjson
-json test
