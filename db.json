@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
   {
     "wall_index": "0",
     "wall_name": "Nature",
@@ -214,8 +213,4 @@
 
   
   
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
